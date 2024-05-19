@@ -1,4 +1,4 @@
-export const mockTransactions = [
+export const DataSet = [
     {
       txId: "01e4dsa",
       user: "johnny",
